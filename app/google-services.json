@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401063921655",
+    "firebase_url": "https://taxautomation-9e179.firebaseio.com",
+    "project_id": "taxautomation-9e179",
+    "storage_bucket": "taxautomation-9e179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401063921655:android:2007104c9d5393f7",
+        "android_client_info": {
+          "package_name": "com.cpsdbd.taxautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401063921655-d9l6kqcs48f2vevj9198q4ahlqjsnh10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cpsdbd.taxautomation",
+            "certificate_hash": "6b53895ed8ddb7acef226ee977062703ee397e5c"
+          }
+        },
+        {
+          "client_id": "401063921655-1uu5ms4loofkh8kd8mjf3rrlsni2nh70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPR8oEI4fmpzzskn-NY2SjNnPtJpxPTu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401063921655-1uu5ms4loofkh8kd8mjf3rrlsni2nh70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
